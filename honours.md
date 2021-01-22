@@ -8,7 +8,7 @@ permalink: /Honours/
 
 Here is a list of Honours projects that I may.
 
-- roots
+1. roots
 - matroids
 - fun stuff
 
